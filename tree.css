@@ -1,0 +1,13 @@
+#makeMeTreeInConsole, #generateConsoleTree {
+    display: none;
+    color: white;
+    padding: 13px;
+}
+
+#makeMeTreeInConsole {
+    background: green;
+}
+
+#generateConsoleTree {
+    background: rebeccapurple;
+}
